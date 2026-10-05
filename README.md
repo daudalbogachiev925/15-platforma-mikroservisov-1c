@@ -1,1 +1,4 @@
-# 15-platforma-mikroservisov-1c
+# Платформа микросервисов для 1С
+
+REST API, WebSocket, RabbitMQ, сервис отчётов, уведомления.
+Всё в Docker, общение с 1С через HTTP-сервисы.
